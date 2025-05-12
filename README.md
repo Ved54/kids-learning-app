@@ -39,7 +39,7 @@ A fun and interactive educational application built with Flutter to make learnin
 
 2. Navigate to the project directory:
    ```bash
-   cd kids_learning_app
+   cd kids-learning-app
    ```
 
 3. Install dependencies:
